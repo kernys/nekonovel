@@ -28,6 +28,9 @@ Visual Novel Creator for everyone.
 감사합니다.
 
 Visual Studio 2012(11.0.50727.1)
+
 Microsoft DirectX SDK(November 2008)
+
 Microsoft Windows Platform SDK v6.1
+
 코드 인코딩 : UTF-8
