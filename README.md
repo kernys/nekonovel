@@ -4,7 +4,8 @@ nekonovel
 Visual Novel Creator for everyone.
 
 
-== Introduction
+Introduction
+=====
 
 대한민국의 대표 비주얼 노벨툴인 네코노벨의 오픈소스 라이센스 버전입니다.
 
@@ -13,11 +14,13 @@ Visual Novel Creator for everyone.
 감사합니다.
 
 
-== License
+License
+=====
 
 본 코드는 BSD 라이센스를 따르며, 자유롭게 복제하거나 이용하실 수 있습니다. (단, 툴이나 라이브러리를 다른 곳에서 사용할 때에는 본 프로젝트 사이트를 링크해주시길 바랍니다.)
 
-== Compiler Environment
+Compiler Environment
+=====
 
 현재 네코노벨의 전체 요소들 NekoMimi 코드 에디터, NekoNovel 풀소스 엔진, Runtime 모두가 공개되어있습니다.
 
